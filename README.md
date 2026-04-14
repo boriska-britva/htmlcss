@@ -1,2 +1,4 @@
-# htmlcss Mark
-My uniqe website on html
+# HTML ja CSS
+Mu unikaalne veebileht kirjutatud htmlis.
+
+Kirjutasin ainult mina ilma AI
